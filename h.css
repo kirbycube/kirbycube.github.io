@@ -18,3 +18,7 @@ body {overflow: hidden}
   -ms-user-select: none;
   font-family: Arial;
 }
+.h {
+  text-align: center;
+  font-size: 96vmin;
+}
