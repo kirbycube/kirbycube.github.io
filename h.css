@@ -17,6 +17,8 @@ body {overflow: hidden}
   -moz-user-select: none;
   -ms-user-select: none;
   font-family: Arial;
+  margin-left: auto;
+  margin-right: auto;
 }
 .theletter {
   text-align: center;
