@@ -11,6 +11,7 @@ body {overflow: hidden}
 .text {
   user-select: none;
   user-drag: none;
+  user-zoom: fixed;
   -webkit-user-select: none;
   -webkit-user-drag: none;
   -khtml-user-select: none;
