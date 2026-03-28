@@ -10,7 +10,6 @@ body {overflow: hidden}
 
 .noselect {
   user-select: none;
-  user-drag: none;
   -webkit-user-select: none;
   -webkit-user-drag: none;
   -khtml-user-select: none;
