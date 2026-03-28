@@ -8,7 +8,7 @@ body {overflow: hidden}
 .blink { animation: blink 2.5s linear infinite; }
 @keyframes blink { 50% {opacity: 0;}}
 
-.text {
+.noselect {
   user-select: none;
   user-drag: none;
   -webkit-user-select: none;
@@ -20,7 +20,7 @@ body {overflow: hidden}
   margin-left: auto;
   margin-right: auto;
 }
-.theletter {
+.mid {
   text-align: center;
   font-size: 96vmin;
 }
